@@ -1,4 +1,4 @@
-//Desagio 1
+//Desafio 1
 
 var INDICE = 13;
 var SOMA = 0;
